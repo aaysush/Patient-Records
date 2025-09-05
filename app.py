@@ -1,5 +1,5 @@
 from fastapi import FastAPI,Path,Query,HTTPException
-import uvicorn
+import uvicorn # web server for fast api    nginx ---> uvicorn -----> asgi-----> db/ml code
 import json
 
 app = FastAPI()
@@ -262,3 +262,4 @@ def delete(key:str):
 
 if __name__ == "__main__":
     uvicorn.run("app:app", host="127.0.0.1", port=8000, reload=True)
+
