@@ -1,0 +1,132 @@
+{
+  "P001": {
+    "name": "Amit Sharma",
+    "age": 45,
+    "gender": "Male",
+    "blood_group": "B+",
+    "contact": {
+      "phone": "+91-9876543210",
+      "email": "amit.sharma@example.com"
+    },
+    "address": "Delhi, India",
+    "medical_history": [
+      "Hypertension",
+      "Type 2 Diabetes"
+    ],
+    "current_medications": [
+      "Metformin",
+      "Amlodipine"
+    ],
+    "allergies": [
+      "Penicillin"
+    ],
+    "last_visit": "2025-08-10"
+  },
+  "P002": {
+    "name": "Sneha Kapoor",
+    "age": 32,
+    "gender": "Female",
+    "blood_group": "O+",
+    "contact": {
+      "phone": "+91-9812345678",
+      "email": "sneha.kapoor@example.com"
+    },
+    "address": "Mumbai, India",
+    "medical_history": [
+      "Asthma"
+    ],
+    "current_medications": [
+      "Salbutamol Inhaler"
+    ],
+    "allergies": [],
+    "last_visit": "2025-07-22"
+  },
+  "P003": {
+    "name": "Ravi Verma",
+    "age": 60,
+    "gender": "Male",
+    "blood_group": "A-",
+    "contact": {
+      "phone": "+91-9123456789",
+      "email": "ravi.verma@example.com"
+    },
+    "address": "Lucknow, India",
+    "medical_history": [
+      "Coronary Artery Disease"
+    ],
+    "current_medications": [
+      "Aspirin",
+      "Atorvastatin"
+    ],
+    "allergies": [
+      "Sulfa Drugs"
+    ],
+    "last_visit": "2025-06-15"
+  },
+  "P004": {
+    "name": "Priya Nair",
+    "age": 27,
+    "gender": "Female",
+    "blood_group": "AB+",
+    "contact": {
+      "phone": "+91-9001122334",
+      "email": "priya.nair@example.com"
+    },
+    "address": "Bangalore, India",
+    "medical_history": [],
+    "current_medications": [],
+    "allergies": [
+      "Peanuts"
+    ],
+    "last_visit": "2025-05-30"
+  },
+  "P005": {
+    "name": "Arjun Mehta",
+    "age": 38,
+    "gender": "Male",
+    "blood_group": "O-",
+    "contact": {
+      "phone": "+91-9876001234",
+      "email": "arjun.mehta@example.com"
+    },
+    "address": "Jaipur, India",
+    "medical_history": [
+      "Chronic Kidney Disease"
+    ],
+    "current_medications": [
+      "Losartan"
+    ],
+    "allergies": [],
+    "last_visit": "2025-08-25"
+  },
+  "P006": {
+    "name": "Test Patient",
+    "age": 25,
+    "gender": "Male",
+    "blood_group": "O+",
+    "contact": {
+      "phone": "123456789",
+      "email": "test@example.com"
+    },
+    "address": "Test City",
+    "medical_history": [],
+    "current_medications": [],
+    "allergies": [],
+    "last_visit": "2025-09-05"
+  },
+  "P007": {
+    "name": "akshad",
+    "age": 25,
+    "gender": "Male",
+    "blood_group": "O+",
+    "contact": {
+      "phone": "123456789",
+      "email": "test@example.com"
+    },
+    "address": "Test City",
+    "medical_history": [],
+    "current_medications": [],
+    "allergies": [],
+    "last_visit": "2025-09-05"
+  }
+}
